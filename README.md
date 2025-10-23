@@ -27,8 +27,8 @@ Name, country of origin, taste and base ingredient are mentioned.
 
 Below are images showing food and drinks.  
 Two come from the Internet, and one is saved locally in the project folder.
-![drink](https://share.google/images/QuFkqJCSjbjxztGT2)
+![drink](https://eu-images.contentstack.com/v3/assets/blta023acee29658dfc/blta9f158c45627aa62/651dbb742365a678d7ec7f18/AdobeStock_279692163_Editorial_Use_Only-Beverage-FTR-new.jpg)
 
-![food](https://share.google/images/2LWQ62NP4qWKPBsxw)
+![food](http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnLT3cQFDm_FRe_jhZF1cTj0Eg0LCQ0u6nDQ&s)
 
 ![food](IMG/food.jpg)
