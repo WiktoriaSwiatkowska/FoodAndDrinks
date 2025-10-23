@@ -1,0 +1,7 @@
+[
+    { "type":"Food","name":"Pierogi", "taste":"salty", "form":"solid","average price":25 },
+    { "type":"Food","name":"gummies", "taste":"sweet", "form":"solid","average price":10 },
+    { "type":"drink","name":"coca-cola", "taste":"sweet", "form":"liquid","average price":6},
+    { "type":"drink","name":"water", "taste":"none", "form":"liqid","average price":3},
+    { "type":"Food","name":"soup", "taste":"salty", "form":"liquid","average price":10}
+]

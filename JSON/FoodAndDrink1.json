@@ -1,0 +1,10 @@
+{
+    "type": "Food",
+    "name": "Pierogi",
+    "amount":24,
+    "price": 25.50,
+    "butter on top": true,
+    "main extras": ["onion", "sour cream", "maga"],
+    "info": {"origin country": "Poland", "most popular": "Poland"},
+    "english name": "dumplings"
+}
