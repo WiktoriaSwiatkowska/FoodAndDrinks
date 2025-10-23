@@ -6,6 +6,15 @@ Food is any substance consumed by an organism for nutritional support. Food is u
 Food is any substance consumed to provide nutritional support and energy to an organism.[2][3] It can be raw, processed, or formulated and is consumed orally by animals for growth, health, or pleasure. Food is mainly composed of water, lipids, proteins, and carbohydrates. Other organic substances (e.g., vitamins) and minerals (e.g., salts) can also be found in food.[4] Plants, algae, and some microorganisms use photosynthesis to make some of their own nutrients.[5] Water is found in nearly all foods and has been defined as food by itself.[6] Water has no food energy, and fibers have low energy densities, or food energy relative to volume, some providing none, while fat is the most energy-dense component.[3] Some inorganic substances are also essential for plant and animal functioning.[7]
 A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries.[2]In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines. 
 ## DATA
+Table contains information about popular food and drinks around the world.
+Name, country of origin, taste and base ingredient are mentioned.
+| Name | Origin | Taste | Base |
+|------|-------|-----|------|
+| Pierogi  | Poland | Salty | Flour |
+| Lemonade    | Unknown | Sour | Water |
+|  Pasta   | Italy | Salty | Flour |
+![pasta](https://pl.freepik.com/zdjecia/pasta)
+![lemonade](https://pixabay.com/photos/lemonade-drink-soft-drink-lemons-2097312/)
 
 
 
