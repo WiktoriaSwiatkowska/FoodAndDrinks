@@ -14,8 +14,10 @@ Name, country of origin, taste and base ingredient are mentioned.
 | Lemonade    | Unknown | Sour | Water |
 |  Pasta   | Italy | Salty | Flour |
 
-[!][pasta](https://pl.freepik.com/zdjecia/pasta)
+![pasta](https://pl.freepik.com/zdjecia/pasta)
+
 ![lemonade](https://pixabay.com/photos/lemonade-drink-soft-drink-lemons-2097312/)
+
 
 
 
@@ -32,5 +34,7 @@ Name, country of origin, taste and base ingredient are mentioned.
 Below are images showing food and drinks.  
 Two come from the Internet, and one is saved locally in the project folder.
 ![drink](https://share.google/images/QuFkqJCSjbjxztGT2)
+
 ![food](https://share.google/images/2LWQ62NP4qWKPBsxw)
+
 ![food](IMG/food.jpg)
